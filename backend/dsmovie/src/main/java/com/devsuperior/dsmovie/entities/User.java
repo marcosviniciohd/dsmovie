@@ -37,13 +37,13 @@ public class User {
 	}
 
 
-	public String getNome() {
+	public String getEmail() {
 		return email;
 	}
 
 
-	public void setNome(String nome) {
-		this.email = nome;
+	public void setEmail(String email) {
+		this.email = email;
 	}
 
 	
